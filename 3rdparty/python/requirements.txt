@@ -1,0 +1,4 @@
+Flask==0.12.2
+mock==2.0.0
+boto==2.48.0
+requests==2.18.4
