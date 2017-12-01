@@ -8,11 +8,3 @@ python_library(
         '3rdparty/python:requests',
     ]
 )
-
-
-python_binary(
-    dependencies=[
-        'src/python/com/clg:py-lib'
-    ],
-    source='main.py',
-)
